@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Wade Stratagem]]></title>
         <description><![CDATA[Wade Stratagem]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wade-stratagem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 02:40:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 02:42:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wade-stratagem/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined1406a193-b759-4262-b6be-ea3276165bea/index.html</link>
+            <description><![CDATA[<p>e: zach@wadestratagem.com</p>]]></description>
+            <link>https://thegrid.ai/wade-stratagem/1406a193-b759-4262-b6be-ea3276165bea/index.html</link>
             <guid isPermaLink="false">1406a193-b759-4262-b6be-ea3276165bea</guid>
-            <pubDate>Wed, 23 Mar 2016 02:39:59 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 02:42:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
