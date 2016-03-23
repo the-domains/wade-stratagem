@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: 'Wade Stratagem specializes in custom, data-levered algorithmic strategies inspired by game theory and industrial organization economics to help clients set the competitive pace. We offer bespoke consulting services with one goal: to individually design advanced, usable and scalable analytical tools that drive productivity in both data-rich and data-poor environments. Our mission is to design cost effective intelligent systems for any interested business, big or small.'
-datePublished: '2016-03-23T02:34:03.833Z'
-dateModified: '2016-03-23T02:32:21.566Z'
+datePublished: '2016-03-23T02:36:55.836Z'
+dateModified: '2016-03-23T02:36:39.905Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-23-wade-stratagem-specializes-in-custom-data-levered-algorithm.md
@@ -18,10 +19,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: wade-stratagem-specializes-in-custom-data-levered-algorithm/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/beb4b6cb-8887-4570-83c0-8eaf26b0c312.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5de6f3c73cb892fdefac6f46f85a31808a11ab85.png)
 
 Wade Stratagem specializes in custom, data-levered algorithmic strategies inspired by game theory and industrial organization economics to help clients set the competitive pace. We offer bespoke consulting services with one goal: to individually design advanced, usable and scalable analytical tools that drive productivity in both data-rich and data-poor environments. Our mission is to design cost effective intelligent systems for any interested business, big or small.
