@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Wade Stratagem]]></title>
-        <description><![CDATA[Wade Stratagem]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Bespoke algorithmic strategies]]></title>
+        <description><![CDATA[Bespoke algorithmic strategies]]></description>
+        <link>https://thegrid.ai/wade-stratagem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 01:16:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 01:44:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wade-stratagem/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d708035-686c-4cde-b96d-27261e6e4464.jpg">]]></description>
-            <link>undefinedwade-stratagem-specializes-in-custom-data-levered-algorithm/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa54b814a04d683a1c805e78825dcf39b82b1865.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/wade-stratagem/wade-stratagem-specializes-in-custom-data-levered-algorithm/index.html</link>
             <guid isPermaLink="false">bd81338c-ee9b-4a4b-b7d7-3cd06fca3dca</guid>
-            <pubDate>Wed, 23 Mar 2016 01:16:52 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 01:44:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
