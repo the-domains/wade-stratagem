@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "About Us: We form a group of quantitative analysts, data scientists and economists with a passion for turning data into intelligence. We tap a network of creative and technical thinkers with backgrounds in finance, economics, criminal justice, healthcare, e-commerce, marketing, industrial organization and public policy. Our work has appeared in leading academic journals and influenced strategies in organization big & small.\_"
-datePublished: '2016-03-25T19:00:33.940Z'
-dateModified: '2016-03-25T19:00:14.432Z'
+datePublished: '2016-03-25T19:10:21.713Z'
+dateModified: '2016-03-25T19:00:41.512Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-25-about-us-we-form-a-group-of-quantitative-analysts-data-sci.md
