@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "About Us: We form a group of quantitative analysts, data scientists and economists with a passion for turning data into intelligence. We tap a network of creative and technical thinkers with backgrounds in finance, economics, criminal justice, healthcare, e-commerce, marketing, industrial organization and public policy. Our work has appeared in leading academic journals and influenced strategies in organization big & small.\_"
-datePublished: '2016-03-29T02:10:12.793Z'
-dateModified: '2016-03-29T02:10:07.457Z'
+datePublished: '2016-03-29T02:11:22.324Z'
+dateModified: '2016-03-29T02:11:19.150Z'
 title: About Us
 author: []
 sourcePath: _posts/2016-03-25-about-us-we-form-a-group-of-quantitative-analysts-data-sci.md
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1949ff4c-92ee-4a80-8f4a-9db42694901a.jpg)
 
-About Us: We form a group of quantitative analysts, data scientists and economists with a passion for turning data into intelligence. We tap a network of creative and technical thinkers with backgrounds in finance, economics, criminal justice, healthcare, e-commerce, marketing, industrial organization and public policy. Our work has appeared in leading academic journals and influenced strategies in organization big & small. 
+We form a group of quantitative analysts, data scientists and economists with a passion for turning data into intelligence. We tap a network of creative and technical thinkers with backgrounds in finance, economics, criminal justice, healthcare, e-commerce, marketing, industrial organization and public policy. Our work has appeared in leading academic journals and influenced strategies in organization big & small. 
 
 If you have a problem that could be addressed with data using the latest machine learning, statistical and econometric techniques, or a strategy to vet against the latest technical research, drop us a note: [zach@wadestratagem.com][0].
 
