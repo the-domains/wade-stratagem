@@ -7,9 +7,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Wade Stratagem specializes in custom, data-levered algorithmic strategies inspired by game theory and industrial organization economics to help clients set the competitive pace. We offer bespoke consulting services with one goal: to individually design advanced, usable and scalable analytical tools that drive productivity in both data-rich and data-poor environments. Our mission is to design cost effective intelligent systems for any interested organization, big or small. \_ \_ \_ \_ \_ \_ \_Contact Us: zach@wadestratagem.com"
-datePublished: '2016-03-29T02:14:37.973Z'
-dateModified: '2016-03-29T02:14:34.538Z'
-title: Home
+datePublished: '2016-03-29T02:15:58.594Z'
+dateModified: '2016-03-29T02:15:54.060Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-23-wade-stratagem-specializes-in-custom-data-levered-algorithm.md
 published: true
