@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We form a group of quantitative analysts, data scientists and applied economists with a passion for turning data into intelligence. We tap a network of creative and technical thinkers with backgrounds in finance, economics, criminal justice, healthcare, e-commerce, marketing, industrial organization and public policy. Our work has appeared in leading academic journals and influenced strategies in organizations big & small.\_"
-datePublished: '2016-03-29T02:44:31.471Z'
-dateModified: '2016-03-29T02:44:13.961Z'
+datePublished: '2016-03-29T03:14:15.806Z'
+dateModified: '2016-03-29T03:14:08.303Z'
 title: About Us
 author: []
 sourcePath: _posts/2016-03-25-about-us-we-form-a-group-of-quantitative-analysts-data-sci.md
@@ -28,4 +28,4 @@ We form a group of quantitative analysts, data scientists and applied economists
 
 If you have a problem that could be addressed with data using the latest machine learning, statistical and econometric techniques, or a strategy to vet against the latest technical research, drop us a note: [zach@wadestratagem.com][0].
 
-[0]: zach@wadestratagem.com
+[0]: mailto: zach@wadestratagem.com
