@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wade Stratagem]]></title>
+        <description><![CDATA[Wade Stratagem]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 02:23:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Wade Stratagem specializes in custom, data-levered algorithmic strategies inspired by game theory and industrial organization economics to help clients set the competitive pace. We offer bespoke consulting services with one goal: to individually design advanced, usable and scalable analytical tools that drive productivity in both data-rich and data-poor environments. Our mission is to design cost effective intelligent systems for any interested organization, big or small.              Contact Us:</p>]]></description>
+            <link>undefinedd638fd25-a247-49fc-935e-8c4975dc9969/index.html</link>
+            <guid isPermaLink="false">d638fd25-a247-49fc-935e-8c4975dc9969</guid>
+            <pubDate>Tue, 29 Mar 2016 02:23:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
